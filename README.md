@@ -47,3 +47,8 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mukithasan232&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
+
+---
+
+### 🐍 My Contributions Snake
+![github contribution grid snake animation](https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake.svg)
