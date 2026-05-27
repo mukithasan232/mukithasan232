@@ -25,6 +25,22 @@
 
 ---
 
+### 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/mukithasan232/MedOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=MedOS&theme=radical&border_radius=10" alt="MedOS Repository" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mukithasan232/SMM-Elite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=SMM-Elite&theme=radical&border_radius=10" alt="SMM Elite Repository" />
+  </a>
+</div>
+
+*💡 **Note:** If your actual repository names differ slightly (e.g., `medos-frontend` instead of `MedOS`), simply update the `repo=` parameter in the image source and the `href` link above to match your exact repository name.*
+
+---
+
 ### 📊 GitHub Stats & Velocity
 
 <div align="center">
@@ -58,3 +74,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake.svg">
 </picture>
+
