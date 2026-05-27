@@ -26,14 +26,16 @@
 ---
 
 ### 📊 GitHub Stats & Velocity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukithasan232&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Mukit's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukithasan232&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="180" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukithasan232&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukithasan232&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Mukit's GitHub Stats" height="180" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukithasan232&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="180" />
+  
+  <br /><br />
+  
+  <img src="https://streak-stats.demolab.com/?user=mukithasan232&theme=radical&border_radius=10" alt="GitHub Streak" />
+</div>
 
 ---
 
