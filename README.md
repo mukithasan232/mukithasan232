@@ -1,77 +1,99 @@
 # Hi there! I'm MD Mukit Hasan 👋 
-### Full-Stack Developer | Founder of CoderNest Digital Solutions
+### Full-Stack Developer | Next.js & Node.js Specialist | Custom SaaS Architect
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Expert;SaaS+Builder;Lifelong+Learner&font=Fira%20Code&center=false&width=500&height=45&color=36BCF7&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Custom+B2B+SaaS+Builder;Next.js+%26+Node.js+Expert;AI+Automation+Enthusiast&font=Fira+Code&center=false&width=500&height=45&color=36BCF7&vCenter=true" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Final year B.Sc. student in **ICE** at Daffodil International University.
-- 🚀 Founder of **CoderNest**, providing digital solutions for modern businesses.
-- 🛠️ Currently building **MedOS** (SaaS Hospital Management) and **SMM Elite**.
-- 🔭 I’m currently focused on **Next.js, TypeScript, and AI Integration**.
-- ⚡ Fun fact: I play **Call of Duty** like a pro and love automating workflows.
+### 👨‍💻 About Me & What I Build
+
+I specialize in **Next.js, Node.js, and custom API integrations**. I help businesses transition away from expensive, bloated third-party tools by building fast, secure, and scalable digital infrastructure they completely own.
+
+- 🏢 Founder of **CoderNest**, engineering modern web architectures and automated workflows.
+- 🛠️ Currently building **MedOS** (Enterprise Healthcare SaaS with RBAC) and **SMM Elite** (API-Driven Agency Dashboard).
+- 🚀 Deeply focused on **AI Integrations, Reverse IP Tracking, and Secure Backend Architectures** (Prisma, MongoDB, Supabase).
+- 🤝 Actively open for remote Full-Stack roles, contract-based projects, and freelance collaborations.
+- ⚡ Fun fact: When I'm not architecting complex databases, I play **Call of Duty** like a pro!
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
+### 💻 Core Tech Stack
+
+<details>
+  <summary><b>🌐 Frontend Architecture</b></summary>
+  <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,prisma,tailwind,bootstrap,git,github,figma,apple" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,figma" alt="Frontend Skills" />
   </a>
-</p>
+</details>
+
+<details>
+  <summary><b>⚙️ Backend, DB & Systems</b></summary>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgres,supabase,python" alt="Backend Skills" />
+  </a>
+</details>
+
+<details>
+  <summary><b>🛠 Tools & Version Control</b></summary>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,apple,postman,docker" alt="Tools" />
+  </a>
+</details>
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Enterprise Projects
 
 <div align="center">
   <a href="https://github.com/mukithasan232/MedOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=MedOS&theme=radical&border_radius=10" alt="MedOS Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=MedOS&theme=radical&border_radius=10&bg_color=0D1117&title_color=36BCF7" alt="MedOS Repository" />
   </a>
   &nbsp;
   <a href="https://github.com/mukithasan232/SMM-Elite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=SMM-Elite&theme=radical&border_radius=10" alt="SMM Elite Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=SMM-Elite&theme=radical&border_radius=10&bg_color=0D1117&title_color=36BCF7" alt="SMM Elite Repository" />
   </a>
 </div>
-
-*💡 **Note:** If your actual repository names differ slightly (e.g., `medos-frontend` instead of `MedOS`), simply update the `repo=` parameter in the image source and the `href` link above to match your exact repository name.*
 
 ---
 
 ### 📊 GitHub Stats & Velocity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukithasan232&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Mukit's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukithasan232&show_icons=true&theme=radical&rank_icon=github&border_radius=10&bg_color=0D1117" alt="Mukit's GitHub Stats" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukithasan232&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukithasan232&layout=compact&theme=radical&border_radius=10&bg_color=0D1117" alt="Top Languages" height="180" />
   
   <br /><br />
   
-  <img src="https://streak-stats.demolab.com/?user=mukithasan232&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mukithasan232&theme=radical&border_radius=10&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-mukit-hasan-bd?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mdmukithasan689@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mukithasan232"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mukithasan232&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
+### 🐍 Contribution Activity
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake.svg">
+  </picture>
+</div>
 
 ---
 
-### 🐍 My Contributions Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake.svg">
-</picture>
+### 🔗 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-mukit-hasan-bd" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mdmukithasan689@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://codernest.cloud/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mukithasan232&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Views" />
+</p>
