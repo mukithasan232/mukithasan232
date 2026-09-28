@@ -1,99 +1,24 @@
-# Hi there! I'm MD Mukit Hasan 👋 
-### Full-Stack Developer | Next.js & Node.js Specialist | Custom SaaS Architect
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Custom+B2B+SaaS+Builder;Next.js+%26+Node.js+Expert;AI+Automation+Enthusiast&font=Fira+Code&center=false&width=500&height=45&color=36BCF7&vCenter=true" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me & What I Build
-
-I specialize in **Next.js, Node.js, and custom API integrations**. I help businesses transition away from expensive, bloated third-party tools by building fast, secure, and scalable digital infrastructure they completely own.
-
-- 🏢 Founder of **CoderNest**, engineering modern web architectures and automated workflows.
-- 🛠️ Currently building **MedOS** (Enterprise Healthcare SaaS with RBAC) and **SMM Elite** (API-Driven Agency Dashboard).
-- 🚀 Deeply focused on **AI Integrations, Reverse IP Tracking, and Secure Backend Architectures** (Prisma, MongoDB, Supabase).
-- 🤝 Actively open for remote Full-Stack roles, contract-based projects, and freelance collaborations.
-- ⚡ Fun fact: When I'm not architecting complex databases, I play **Call of Duty** like a pro!
-
----
-
-### 💻 Core Tech Stack
-
-<details>
-  <summary><b>🌐 Frontend Architecture</b></summary>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,figma" alt="Frontend Skills" />
-  </a>
-</details>
-
-<details>
-  <summary><b>⚙️ Backend, DB & Systems</b></summary>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgres,supabase,python" alt="Backend Skills" />
-  </a>
-</details>
-
-<details>
-  <summary><b>🛠 Tools & Version Control</b></summary>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,apple,postman,docker" alt="Tools" />
-  </a>
-</details>
-
----
-
-### 🏆 Featured Enterprise Projects
-
 <div align="center">
-  <a href="https://github.com/mukithasan232/MedOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=MedOS&theme=radical&border_radius=10&bg_color=0D1117&title_color=36BCF7" alt="MedOS Repository" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mukithasan232/SMM-Elite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=SMM-Elite&theme=radical&border_radius=10&bg_color=0D1117&title_color=36BCF7" alt="SMM Elite Repository" />
-  </a>
+  <h1><code>&gt; INITIALIZING_PROFILE: MD_MUKIT_HASAN...</code></h1>
+  <h3>Full-Stack Developer | Next.js & Node.js Specialist | Custom SaaS Architect</h3>
+  <img src="https://readme-typing-svg.demolab.com/?lines=System+Architecture;Custom+B2B+SaaS+Builder;Next.js+%26+Node.js+Expert;AI+Automation+Pipelines&font=Fira+Code&center=true&width=500&height=45&color=36BCF7&vCenter=true" alt="Typing SVG" />
 </div>
 
 ---
 
-### 📊 GitHub Stats & Velocity
+### 👨‍💻 `~/about_me`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukithasan232&show_icons=true&theme=radical&rank_icon=github&border_radius=10&bg_color=0D1117" alt="Mukit's GitHub Stats" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukithasan232&layout=compact&theme=radical&border_radius=10&bg_color=0D1117" alt="Top Languages" height="180" />
-  
-  <br /><br />
-  
-  <img src="https://streak-stats.demolab.com/?user=mukithasan232&theme=radical&border_radius=10&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-### 🐍 Contribution Activity
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mukithasan232/mukithasan232/output/github-snake.svg">
-  </picture>
-</div>
-
----
-
-### 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-mukit-hasan-bd" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mdmukithasan689@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://codernest.cloud/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mukithasan232&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Views" />
-</p>
+```json
+{
+  "identity": "MD Mukit Hasan",
+  "role": "Independent Full-Stack Developer",
+  "company": "Founder @ CoderNest",
+  "mission": "Helping B2B agencies eliminate third-party SaaS bloat by engineering fast, secure, and fully-owned digital infrastructures.",
+  "current_focus": [
+    "Next.js App Router Architecture", 
+    "Node.js & Custom API Microservices", 
+    "Live Biometric (ZKTeco) Integrations",
+    "AI Automation & Auto-UTM Tracking"
+  ],
+  "fun_fact": "When I'm not optimizing databases, I'm dominating in Call of Duty. 🎮"
+}
