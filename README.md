@@ -51,21 +51,21 @@ I specialize in **Next.js, Node.js, and custom API integrations**. I help busine
 
 <div align="center">
   <a href="https://www.codernest.cloud/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=CoderNest&theme=radical&border_radius=10&bg_color=0D1117&title_color=36BCF7" alt="CoderNest Agency Architecture and Next.js Portfolio Live" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=mukithasan232&repo=CoderNest&theme=radical&border_radius=10&bg_color=%230D1117&title_color=%2336BCF7" alt="CoderNest Agency Architecture and Next.js Portfolio Live" />
   </a>
   &nbsp;
   <a href="https://lead.codernest.cloud/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=lead-collect-tool&theme=radical&border_radius=10&bg_color=0D1117&title_color=36BCF7" alt="Custom B2B Lead Collection SaaS Tool Live" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=mukithasan232&repo=lead-collect-tool&theme=radical&border_radius=10&bg_color=%230D1117&title_color=%2336BCF7" alt="Custom B2B Lead Collection SaaS Tool Live" />
   </a>
   
   <br /><br />
   
   <a href="https://vision.codernest.cloud/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=AI-Face-Detection&theme=radical&border_radius=10&bg_color=0D1117&title_color=36BCF7" alt="AI Face Detection and Surveillance Dashboard Live" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=mukithasan232&repo=AI-Face-Detection&theme=radical&border_radius=10&bg_color=%230D1117&title_color=%2336BCF7" alt="AI Face Detection and Surveillance Dashboard Live" />
   </a>
   &nbsp;
   <a href="https://github.com/mukithasan232/hrm_software" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukithasan232&repo=hrm_software&theme=radical&border_radius=10&bg_color=0D1117&title_color=36BCF7" alt="Enterprise HRM Software with ZKTeco Biometric Integration" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=mukithasan232&repo=hrm_software&theme=radical&border_radius=10&bg_color=%230D1117&title_color=%2336BCF7" alt="Enterprise HRM Software with ZKTeco Biometric Integration" />
   </a>
 </div>
 
@@ -76,9 +76,9 @@ I specialize in **Next.js, Node.js, and custom API integrations**. I help busine
 ### 📊 GitHub Stats & Velocity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukithasan232&show_icons=true&theme=radical&rank_icon=github&border_radius=10&bg_color=0D1117" alt="Mukit's GitHub Commits and Pull Requests Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukithasan232&show_icons=true&theme=radical&rank_icon=github&border_radius=10&bg_color=%230D1117" alt="Mukit's GitHub Commits and Pull Requests Stats" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukithasan232&layout=compact&theme=radical&border_radius=10&bg_color=0D1117" alt="Most Used Programming Languages - TypeScript, JavaScript" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukithasan232&layout=compact&theme=radical&border_radius=10&bg_color=%230D1117" alt="Most Used Programming Languages" height="180" />
   
   <br /><br />
   
